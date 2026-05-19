@@ -1,0 +1,6 @@
+MODEL: ridge
+RMSE: 0.2546
+R2: 0.9295
+
+Best params:
+model__alpha: 1.0

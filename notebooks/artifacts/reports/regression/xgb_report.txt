@@ -1,0 +1,13 @@
+MODEL: xgb
+RMSE: 0.2553
+R2: 0.9291
+
+Best params:
+model__colsample_bytree: 0.9
+model__learning_rate: 0.01
+model__max_depth: 3
+model__min_child_weight: 1
+model__n_estimators: 500
+model__reg_alpha: 0
+model__reg_lambda: 1
+model__subsample: 0.7

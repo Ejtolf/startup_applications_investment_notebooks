@@ -1,0 +1,6 @@
+MODEL: lasso
+RMSE: 0.2550
+R2: 0.9292
+
+Best params:
+model__alpha: 0.01

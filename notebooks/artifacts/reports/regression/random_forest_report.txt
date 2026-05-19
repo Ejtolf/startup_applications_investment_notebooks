@@ -1,0 +1,7 @@
+MODEL: random_forest
+RMSE: 0.2592
+R2: 0.9269
+
+Best params:
+model__max_depth: 10
+model__n_estimators: 500
