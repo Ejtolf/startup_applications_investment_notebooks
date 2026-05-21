@@ -1,9 +1,10 @@
 MODEL: lgbm
-RMSE: 0.2629
-R2: 0.9248
+RMSE: 771430.19
+MAE: 540484.64
+R2: 0.8874
 
-Best params:
-model__colsample_bytree: 0.9
+BEST PARAMS:
+model__colsample_bytree: 0.7
 model__learning_rate: 0.01
 model__max_depth: 5
 model__min_child_samples: 50

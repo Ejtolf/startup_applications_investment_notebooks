@@ -1,8 +1,9 @@
 MODEL: gboost
-RMSE: 0.2565
-R2: 0.9284
+RMSE: 752773.58
+MAE: 522305.88
+R2: 0.8928
 
-Best params:
+BEST PARAMS:
 model__learning_rate: 0.05
 model__max_depth: 3
 model__n_estimators: 200

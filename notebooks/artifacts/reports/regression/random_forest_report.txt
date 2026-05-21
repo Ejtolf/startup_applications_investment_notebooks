@@ -1,7 +1,8 @@
 MODEL: random_forest
-RMSE: 0.2592
-R2: 0.9269
+RMSE: 773606.69
+MAE: 534684.71
+R2: 0.8867
 
-Best params:
+BEST PARAMS:
 model__max_depth: 10
-model__n_estimators: 500
+model__n_estimators: 200

@@ -1,6 +1,7 @@
 MODEL: ridge
-RMSE: 0.2546
-R2: 0.9295
+RMSE: 791706.66
+MAE: 543050.40
+R2: 0.8814
 
-Best params:
+BEST PARAMS:
 model__alpha: 1.0

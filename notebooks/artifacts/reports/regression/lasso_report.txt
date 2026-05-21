@@ -1,6 +1,7 @@
 MODEL: lasso
-RMSE: 0.2550
-R2: 0.9292
+RMSE: 843088.25
+MAE: 556985.97
+R2: 0.8655
 
-Best params:
+BEST PARAMS:
 model__alpha: 0.01

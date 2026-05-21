@@ -12,6 +12,8 @@ from sklearn.metrics import (
 )
 
 
+# Classification inference function
+# Fits the model, optimizing by cross validation, validates and counts scores.
 def train_evaluate_model(
     model_name,
     model,
